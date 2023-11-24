@@ -124,7 +124,7 @@ html::-webkit-scrollbar-thumb{
 
 body{
  
-    background:linear-gradient(210deg,#d2001a,#7462ff,#C36B84,#23d5ab);
+    background:linear-gradient(210deg,#97d200,#62ff6c,#6bc3b7,#23a8d5);
     background-size: 300% 300%;
     animation: color 12s ease-in-out infinite;
     overflow-x: hidden;
